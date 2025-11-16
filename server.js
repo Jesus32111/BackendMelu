@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 // 🔑 Configuración de CORS para soportar desarrollo local y despliegue en Netlify
 const allowedOrigins = [
     'http://localhost:5174', // Vite Development Server (Local)
-    'https://iridescent-cannoli-857c6f.netlify.app' // Netlify Production URL
+    'https://fluffy-palmier-3a70bd.netlify.app/' // Netlify Production URL
 ];
 
 // Middleware
